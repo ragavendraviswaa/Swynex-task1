@@ -16,7 +16,7 @@ Cyber security task 1 posterswigerlab
 ### Evidence
 Lab solved successfully in authorized PortSwigger lab. Screenshots added below.
 
-![Lab Solved](lab-solved.png)
+![Lab Solved](img-20260926-wa0015.jpg)
 
 ### Mitigation
 1. Use Parameterized Queries / Prepared Statements
